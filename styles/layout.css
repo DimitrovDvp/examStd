@@ -273,7 +273,9 @@ p .nospace {
 	display: none;
 }
 
-
+.align-justify {
+	text-align: justify;
+}
 
 
 
