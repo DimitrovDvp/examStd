@@ -269,6 +269,16 @@ input:focus, textarea:focus, *:required:focus{border-color:#B97D2D;}
 /* Content Area */
 .cta article i{color:#B97D2D; border-color:#D7D7D7;}
 .cta article:hover i{color:#FFFFFF; background-color:#B97D2D; border-color:#B97D2D;}
+p .nospace {
+	display: none;
+}
+
+
+
+
+
+
+
 
 
 /* Footer */
